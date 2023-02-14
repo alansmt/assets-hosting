@@ -1,2 +1,2 @@
 # assets-hosting 
-for uploading images on CodePen
+to upload images on CodePen
